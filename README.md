@@ -9,7 +9,7 @@ Univariate analysis is basically the simplest form to analyze data. Uni means on
 
 # Algorithm:
 
-#Step1:
+# Step1:
 
 Read the given data.
 
